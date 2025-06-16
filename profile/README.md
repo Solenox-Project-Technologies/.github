@@ -1,6 +1,6 @@
 # Solenox Project Technologies
 
-We are an independent development team which (mostly) specializes on:
+We are an independent development team from Russia, which (mostly) specializes on:
 
 - Lua (Native, Garry's Mod)
 - Python (Native, Django, GUI)
