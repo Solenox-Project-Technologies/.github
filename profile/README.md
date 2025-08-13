@@ -1,14 +1,27 @@
-# Solenox Project Technologies
+# Solenox Project Technologies  
 
-We are an independent development team from Russia, which (mostly) specializes on:
+## No politics. No drama. No barriers. Only code. Always shine.  
 
-- Lua (Native, Garry's Mod)
-- Python (Native, Django, GUI)
-- Web (FullStack)
-- Linux & Windows development
-- Database management (MySQL, SQLite)
-- Java Development (Native, Android, Minecraft Forge)
-- Go (Security Stack)
-- Containers (Docker)
+### Our development stack:  
+- Lua (Native, Garry's Mod)  
+- Python (Native, Django, GUI)  
+- Web Development (Full Stack)  
+- Linux & Windows Development  
+- Database Management (MySQL, SQLite)  
+- Java Development (Native, Android, Minecraft Forge)  
+- Go (Security Stack)  
+- Containers (Docker)  
+- Low-Level Decompiling  
 
-This README is very minimalistic, because all questions that you have will be asked if you write us a letter on our commecrial e-mail address "orders@solenoxproject.tech"
+### We don't do:  
+- Malware or illegal hacking tools  
+- Crypto-mining or scam software  
+- Doxxing or personal data abuse  
+- Anything prohibited under international law  
+
+---
+
+This README is intentionally minimalistic.  
+
+If you have any questions or want to start a project with us, contact us at **orders@solenoxproject.tech**.  
+We’ll answer every relevant inquiry — without bias, without borders.  
